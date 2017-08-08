@@ -6,6 +6,7 @@ Requirements:
 2.  Webcam.  Can be built in or not.  Doesn't matter.
 3.  Python 2.7
 4.  OpenCV 3.2.0
-5.  Brightly colored object (tennis ball?)
+5.  Text editor of choice. IDLE or Notepad++ work great.
+6.  Brightly colored object (tennis ball?)
 
 Follow the OpenCV/Python Installation Guide given in this repository.
